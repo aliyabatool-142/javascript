@@ -1,2 +1,2 @@
-a =9;
+a =98;
 console.log(a);
