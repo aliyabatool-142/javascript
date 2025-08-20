@@ -1,4 +1,4 @@
-//alert(3+3);    //we are using not browser
+//alert(3+3);    //we are using nodejs, not browser
 let name = "Aliya";
 let age = 21;
 let isDtudent = true;
